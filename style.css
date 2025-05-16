@@ -114,7 +114,6 @@ a:hover {
 .opcao .escolha {
     display: none;
     width: 40px;
-    transition: 0.3 ease;
 }
 
 .opcao:hover .escolha {
